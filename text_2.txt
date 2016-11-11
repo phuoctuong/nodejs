@@ -1,1 +1,1 @@
-hello text_2 lan 1
+hello text_2 lan 2
